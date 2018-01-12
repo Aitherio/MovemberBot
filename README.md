@@ -1,5 +1,4 @@
 # MovemberBot
-Movember Bot
 
 --Website above links to a blog post about the event--
 
