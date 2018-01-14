@@ -1,7 +1,9 @@
 # MovemberBot
 
--- Website above links to a blog post about the event   --
-![Team picture](./Top_3_Winners.jpg)
+Website above links to a blog post about the event
+
+Top 3 teams picture:
+![Top 3 teams](./Top_3_Winners.jpg)
 
 Movember Bot is a prototype of a Facebook Messenger chatbot that was designed to facilitate discussions about male mental health. This project won third place at Mo'Hacks 2017.
 
